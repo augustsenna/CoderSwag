@@ -1,7 +1,8 @@
-package com.yoursperfectapps.coderswag
+package com.yoursperfectapps.coderswag.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.yoursperfectapps.coderswag.R
 
 class MainActivity : AppCompatActivity() {
 
